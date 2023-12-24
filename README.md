@@ -12,7 +12,7 @@ Features:
 - Randomized Rampage: Targets files across all drives with unpredictable precision.
 
 Usage:
-1. Clone the repository: git clone https://github.com/yourusername/DigitalApocalypse.git
+1. Clone the repository: git clone https://github.com/1cYinfinity/DigitalApocalypse.git
 2. Navigate to the project: cd DigitalApocalypse
 3. Run the script: python spread_mayhem.py
 
